@@ -6,6 +6,6 @@ public class Main {
     }
 
     public static String getGreeting() {
-        return "Hello, World! heheheh";
-    }
+        return "Hello, World! heheheheee";
+}
 }
