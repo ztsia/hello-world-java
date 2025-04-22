@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'master', url: 'https://github.com/ztsia/practical_8_github_action.git'
+                git branch: 'master', url: 'https://github.com/ztsia/hello-world-java.git'
             }
         }
         stage('Build') {
